@@ -1,0 +1,92 @@
+.DS_Store
+
+# --- Unity Generated Files ---
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Mm]emoryCaptures/
+**/[Uu]serSettings/
+
+# Shader cache (Unity 2023+)
+**/[Aa]rtifacts/
+
+# Crash and debug reports
+**/*.pidb
+**/*.svd
+**/*.userprefs
+
+# --- Unity Asset meta/cache files ---
+**/*.csproj
+**/*.unityproj
+**/*.sln
+**/*.suo
+**/*.tmp
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+**/*.booproj
+
+# Rider IDE
+**/.idea/
+**/*.sln.iml
+
+# VS Code
+**/.vscode/
+**/.history/
+
+# JetBrains Rider
+**/.Rider/
+
+# Unity Collaborate cache
+**/Assets/._*
+**/.collabignore
+
+# --- Platform specific ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*
+
+# --- Unity Package Manager ---
+**/Packages/packages-lock.json
+
+# --- Build Artifacts ---
+*.apk
+*.aab
+*.unitypackage
+*.zip
+*.tar.gz
+*.exe
+*.app
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+
+# --- Generated StreamingAssets or AssetBundles ---
+**/StreamingAssets/
+**/AssetBundles/
+
+# --- Optional: Ignore local build/test tools ---
+**/BuildTools/
+**/TestResults/
+
+# --- Unity Cloud Build ---
+**/unitycloud/
+
+# --- Logs and crash reports ---
+**/*.log
+
+# # --- Ignore by convention any other .gitignored subfolders ---
+# **/.gitignore

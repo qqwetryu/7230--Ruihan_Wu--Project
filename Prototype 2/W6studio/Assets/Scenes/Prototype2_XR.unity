@@ -1388,7 +1388,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1543329345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2145,16 +2145,28 @@ PrefabInstance:
       value: Inkroom env
       objectReference: {fileID: 0}
     - target: {fileID: 8770693638299068801, guid: f01bea1a0ebc8457ebd280761970c018, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8770693638299068801, guid: f01bea1a0ebc8457ebd280761970c018, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8770693638299068801, guid: f01bea1a0ebc8457ebd280761970c018, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8770693638299068801, guid: f01bea1a0ebc8457ebd280761970c018, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.199392
+      value: 5.2
       objectReference: {fileID: 0}
     - target: {fileID: 8770693638299068801, guid: f01bea1a0ebc8457ebd280761970c018, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -11.017967
+      value: 1.06
       objectReference: {fileID: 0}
     - target: {fileID: 8770693638299068801, guid: f01bea1a0ebc8457ebd280761970c018, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -8.310253
+      value: -1.6
       objectReference: {fileID: 0}
     - target: {fileID: 8770693638299068801, guid: f01bea1a0ebc8457ebd280761970c018, type: 3}
       propertyPath: m_LocalRotation.w

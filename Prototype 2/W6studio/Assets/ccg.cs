@@ -27,13 +27,7 @@ public class ccg : MonoBehaviour
             Invoke("quittip", 3f);
 
         }
-        else if (other.tag == "papper") {
 
-            tip2.SetActive(true);
-
-            Invoke("quittip", 3f);
-
-        }
 
     }
 
@@ -41,7 +35,7 @@ public class ccg : MonoBehaviour
     private void quittip() {
 
         tip.SetActive(false);
-tip2.SetActive(false);
+
 
     }
 
